@@ -1,0 +1,7 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: RunIntoFlowers
+Author: Nicolas Skorzewski
+URL: https://poly.google.com/view/6H7-X-8q4Hz
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
